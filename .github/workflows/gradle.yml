@@ -48,3 +48,7 @@ jobs:
         run: aws s3 cp --region ap-northeast-2 ./practice-deploy.zip s3://be-112-codinginfant/practice-deploy.zip
 
       # 수정본
+      # 수정본2
+      # 수정본
+      # 수정본
+      # 수정본
